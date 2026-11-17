@@ -3,7 +3,7 @@ title: "Beyond separability: Convergence rate of vanishing viscosity approximati
 collection: publications
 category: manuscripts
 permalink: /publication/nonseparable-mfg-vv-rate
-excerpt: 'This paper is about vanishing viscosity approximations to the system of PDEs to which a mean field game corresponds. We show that the vanishing viscosity approximation has a rate of convergence that is at least as fast as the classical case; namely, it is at most $\mathcal{O}(\beta^2)$.' 
+excerpt: 'This paper is about vanishing viscosity approximations to the system of PDEs to which a mean field game corresponds. We show that the vanishing viscosity approximation has a rate of convergence that is at least as fast as the classical case; namely, it is at most $\mathcal{O}(\beta)$.' 
 date: November 2026
 venue: 'Stochastic Processes and their Applications'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0304414926001936' 
