@@ -7,7 +7,14 @@ excerpt: 'This paper is about vanishing viscosity approximations to the system o
 date: November 2026
 venue: 'Stochastic Processes and their Applications'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0304414926001936' 
-citation: 'Yu, Winston and Du, Qiang and Tang, Wenpin. (2026). &quot;Beyond separability: Convergence rate of vanishing viscosity approximations to mean field games via FBSDE stability.&quot; <i>Stochastic Processes and their Applications 1</i>. 1(1).'
+citation: 'Winston Yu, Qiang Du, Wenpin Tang,
+Beyond separability: Convergence rate of vanishing viscosity approximations to mean field games via FBSDE stability,
+Stochastic Processes and their Applications,
+Volume 201,
+2026,
+105061,
+ISSN 0304-4149,
+https://doi.org/10.1016/j.spa.2026.105061.'
 ---
 To give an informal overview: a mean field game (MFG) is a model for how a very large number of indistinguishable agents interact, when each agent is trying to minimize the amount of cost it incurs. An agent's cost often depends on both the action that the agent takes at some state and where all the other agents are (i.e. the distribution of agents). A solution to a MFG is a Nash equilibrium: one where no agent can do better by changing its action, given what all the other agents are doing.
 
