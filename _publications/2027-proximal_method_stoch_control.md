@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/proximal_method_stoch_control
 excerpt: 'This paper proposes a proximal gradient algorithm for finding the optimal policy for entropy-regularized stochastic control problems. Under standard regularity and smallness assumptions, we show that the iterates of the proximal method converges in an appropriate sense to the optimal policy and the optimal value function. Under an additional assumption on either the step size or the regularity of the initial condition, we prove the convergence rate of the algorithm. Importantly, the volatility coefficient of the controlled diffusion is allowed to be controlled.'
-date: will be posted in a few days
+date: '2026-11-30'
 venue: 'TBD'
 slidesurl: 'TBD'
 paperurl: 'TBD'
